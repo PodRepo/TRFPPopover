@@ -1,0 +1,6 @@
+module TRFPPopover {
+  umbrella header "TRFPPopover-umbrella.h"
+
+  export *
+  module * { export * }
+}

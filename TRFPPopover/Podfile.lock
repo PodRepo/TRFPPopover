@@ -1,0 +1,14 @@
+PODS:
+  - TRFPPopover (0.0.1)
+
+DEPENDENCIES:
+  - TRFPPopover (from `../`)
+
+EXTERNAL SOURCES:
+  TRFPPopover:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TRFPPopover: 1afbe00f60ffa5712e42cf0e224130c03a17b928
+
+COCOAPODS: 0.38.1
